@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! ⚡
 
-Hello, and welcome to my portfolio! My name is **Marek Farkaš** (you can call me Noobish though!) and I am a jack of all trades IT person, however I specialize in front-end web development.
+Hello, and welcome to my portfolio! My name is **Marek Farkaš** (you can call me Noobish though!) and I am a jack of all trades IT person, however I specialize in front-end web & desktop app development using raw HTML/CSS/JS, Electron & NodeJS.
 
 I hope you enjoy exploring my GitHub profile, and if you have any questions or would like to work with me, please don't hesitate to [contact me](#contact). I'm always open to new opportunities and challenges, and I'd love to hear from you! 🤗
 
