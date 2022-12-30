@@ -34,7 +34,9 @@ I can speak the following languages:
 Take a look at some of my recent projects to see what I can do:
 
 - [Specinator](specinator.net): An app, which can show you your specs in a modern design. You can also share them easily by clicking the "SHARE YOUR SPECS" button!
-- [TEF6686 FM Tuner](https://github.com/NoobishSVK/TEF6686-remastered): An improvement of PE5PVB's firmware. This version is made for portable tuners which include battery support, remote control over Wi-Fi and more neat features! If you're interested in learning more, you can join our Discord community.
+- [TEF6686 FM Tuner](https://github.com/NoobishSVK/TEF6686-remastered): An improvement of PE5PVB's firmware. This version is made for portable tuners which include battery support, remote control over Wi-Fi and more neat features! If you're interested in learning more, you can join our Discord community.  
+  
+  
 [<img alt="Join the TEF6686 Discord community!" src="https://i.imgur.com/BYqhuLI.png">](https://discord.gg/ZAVNdS74mC)  
 
 ## Contact
