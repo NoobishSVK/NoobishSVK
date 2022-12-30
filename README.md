@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! ⚡
 
-Hello, and welcome to my portfolio! My name is Marek Farkaš (you can call me Noobish though!) and I am a jack of all trades IT person, however I specialize in front-end web development.
+Hello, and welcome to my portfolio! My name is **Marek Farkaš** (you can call me Noobish though!) and I am a jack of all trades IT person, however I specialize in front-end web development.
 
 On this page, you'll find a selection of my past projects, showcasing my skills and experience in a variety of design areas. From branding and visual identity to web design and illustration, I have a wide range of skills and a passion for creating high-quality work.
 
