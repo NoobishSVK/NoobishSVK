@@ -2,32 +2,13 @@
 
 Hello, and welcome to my portfolio! My name is **Marek Farkaš** (you can call me Noobish though!) and I am a jack of all trades IT person, however I specialize in front-end web development.
 
-On this page, you'll find a selection of my past projects, showcasing my skills and experience in a variety of design areas. From branding and visual identity to web design and illustration, I have a wide range of skills and a passion for creating high-quality work.
-
-I hope you enjoy exploring my portfolio, and if you have any questions or would like to work with me, please don't hesitate to [contact me](#contact). I'm always open to new opportunities and challenges, and I'd love to hear from you! 🤗
-
-## Hobbies
-
-In my free time, I enjoy exploring my passions and hobbies, which include:
-- FM DXing
-- Web development
-- Graphic design
-- PC gaming
+I hope you enjoy exploring my GitHub profile, and if you have any questions or would like to work with me, please don't hesitate to [contact me](#contact). I'm always open to new opportunities and challenges, and I'd love to hear from you! 🤗
 
 ## Languages
 
 I can speak the following languages:
 
-- 🇸🇰 Slovak
-- 🇨🇿 Czech
-- 🇬🇧 English
-- 🇵🇱 Polish
-
-## My Skills
-
-- **Graphic Design**: I am proficient in a range of graphic design software, including Adobe Creative Suite (Photoshop, Illustrator, and InDesign).
-- **Web Design**: I have experience designing and building responsive websites that look great on all devices.
-- **Branding and Visual Identity**: I am skilled at creating cohesive and effective branding systems that capture the essence of a brand and stand the test of time.
+🇸🇰 Slovak | 🇨🇿 Czech | 🇬🇧 English | 🇵🇱 Polish
 
 ## My Work
 
