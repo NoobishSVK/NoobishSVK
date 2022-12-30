@@ -14,6 +14,15 @@ In my free time, I enjoy exploring my passions and hobbies, which include:
 - Graphic design
 - PC gaming
 
+## Languages
+
+I can speak the following languages:
+
+- 🇸🇰 Slovak
+- 🇨🇿 Czech
+- 🇬🇧 English
+- 🇵🇱 Polish
+
 ## My Skills
 
 - **Graphic Design**: I am proficient in a range of graphic design software, including Adobe Creative Suite (Photoshop, Illustrator, and InDesign).
