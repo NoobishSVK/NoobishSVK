@@ -14,7 +14,7 @@ I can speak the following languages:
 
 Take a look at some of my recent projects to see what I can do:
 
-- [Specinator](specinator.net): An app that allows users to view their device's specifications with a user-friendly interface, as well as the option to share the information with one button. 📱
+- [Specinator](https://specinator.net): An app that allows users to view their device's specifications with a user-friendly interface, as well as the option to share the information with one button. 📱
 - [TEF6686 FM Tuner](https://github.com/NoobishSVK/TEF6686-remastered): An improvement of PE5PVB's firmware. This version is made for portable tuners which include battery support, remote control over Wi-Fi and more neat features! If you're interested in learning more, you can join our Discord community.  📻
   
   
