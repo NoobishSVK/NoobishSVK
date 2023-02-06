@@ -10,17 +10,6 @@ I can speak the following languages:
 
 🇸🇰 Slovak | 🇨🇿 Czech | 🇬🇧 English | 🇵🇱 Polish
 
-## My most important projects
-
-Take a look at some of my recent projects to see what I can do:
-
-### JS
-- [Specinator](https://specinator.net): An app that allows users to view their device's specifications with a user-friendly interface, as well as the option to share the information with one button. 📱
-- [DiscordSpecsRP](https://github.com/NoobishSVK/DiscordSpecsRP): A separate app (although also included as a feature in Specinator) that shows everyone on Discord your device's specs using Discord's Rich Presence API.
-
-### C++
-- [TEF6686 FM Tuner](https://github.com/NoobishSVK/TEF6686-remastered): An improvement of PE5PVB's FM Tuner firmware. This version is made for portable tuners which include battery support, remote control over Wi-Fi and more neat features!  
-
 ## Contact
 
 If you're interested in working with me or have any questions, don't hesitate to reach out! You can contact me via [e-mail](mailto:noobish@noobish.eu). I look forward to hearing from you! ✨
