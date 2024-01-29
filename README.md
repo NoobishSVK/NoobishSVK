@@ -14,6 +14,7 @@ I can speak the following languages:
 
 If you're interested in working with me or have any questions, don't hesitate to reach out! You can contact me via [e-mail](mailto:noobish@noobish.eu). I look forward to hearing from you! ✨
 
+<a href="https://www.buymeacoffee.com/app/noobish" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!--
 **NoobishSVK/NoobishSVK** is a ✨ _special_  ✨ repository because its `README.md` (this file) appears on your GitHub profile.
